@@ -1,1 +1,4 @@
-
+.wrapper {
+    border-color: grey;
+    width: 10px;
+}
