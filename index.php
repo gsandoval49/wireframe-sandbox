@@ -25,14 +25,17 @@
         <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+        <!-- GOOGLE FONTS HERE -->
+        <link href="https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro" rel="stylesheet">
 
         <!-- title here -->
         <title>Wireframe Sandbox</title>
     </head>
     <body>
-        <div class="wrapper">
-            <header></header>
-            <div id="container"></div>
+            <header>
+                <h1>test with google fonts</h1>
+                    <p>test witih stuff here for google fotns</p>
+            </header>
             <footer></footer>
         </div>
 
