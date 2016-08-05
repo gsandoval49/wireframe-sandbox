@@ -1,0 +1,9 @@
+/*CSS Stylesheet*/
+
+/*fixing the nav bar*/
+nav {
+    background-color: #162424;
+    padding: 2rem;
+    color: grey;
+    font-size: 2rem;
+}

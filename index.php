@@ -32,9 +32,19 @@
 
     </head>
     <body>
+
         <header>
-            <nav>Nav bar goes here</nav>
+            <div class="container">
+                <div class="row">
+                    <div class="row-md-12">
+                        <nav>Nav bar goes here</nav>
+                    </div>
+                </div>
+            </div>
+
         </header>
+
+
         <main>
 
         </main>
