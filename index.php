@@ -49,14 +49,11 @@
 
         <main>
             <!-- ABOUT ME AND CONNECT -->
+            <!-- Fold #1 in mobile -->
             <div class="container-fluid">
-                <div class="row">
-                    <div class="row-xs-12 col-md-12">
-                        ABOUT ME
-                    </div>
-                    <div class="row-xs-12 col-md-12">
-                        "GET IN TOUCH"
-                    </div>
+                <div class="row fold-one">
+                    <div class="row-xs-12 col-md-8">NAME & BRIEF DESCRIPTION</div>
+                    <div class="row-xs-12 col-md-4">Get in touch</div>
                 </div>
             </div>
 
