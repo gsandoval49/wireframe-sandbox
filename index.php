@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- ADD YOUR CUSTOM CSS HERE -->
-        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 
         <!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,7 +27,17 @@
         <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+        <!-- TITLE HERE-->
+        <title>HTML Sando-box</title>
 
     </head>
+    <body>
+        <header>
+            <nav>Nav bar goes here</nav>
+        </header>
+        <main>
+
+        </main>
+    </body>
 
 </html>
