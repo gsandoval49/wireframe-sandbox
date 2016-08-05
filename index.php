@@ -34,6 +34,8 @@
     <body>
 
         <header>
+
+            <!-- NAV BAR GOES HERE -->
             <div class="container">
                 <div class="row">
                     <div class="row-md-12">
@@ -46,6 +48,17 @@
 
 
         <main>
+            <!-- ABOUT ME AND CONNECT -->
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="row-xs-12 col-md-12">
+                        ABOUT ME
+                    </div>
+                    <div class="row-xs-12 col-md-12">
+                        "GET IN TOUCH"
+                    </div>
+                </div>
+            </div>
 
         </main>
     </body>
