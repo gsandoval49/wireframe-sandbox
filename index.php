@@ -37,7 +37,7 @@
         <header>
 
             <!-- NAV BAR GOES HERE -->
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12">
 
@@ -60,7 +60,7 @@
                                     <li><a href="#">Home</a></li>
                                     <li><a href="about-me">About Me</a></li>
                                     <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Moar Links <span class="caret"></span></a>
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Links<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a href="#">Experiences</a></li>
                                             <li><a href="#">Latest Projects</a></li>
@@ -82,12 +82,22 @@
 
 
         <main>
-            <!-- ABOUT ME AND CONNECT -->
+            <!-- NAME & CONTACT ME -->
             <!-- Fold #1 in mobile -->
             <div class="container-fluid">
                 <div class="row fold-one">
                     <div class="row-xs-12 col-md-8">NAME & BRIEF DESCRIPTION</div>
                     <div class="row-xs-12 col-md-4">Get in touch</div>
+                </div>
+            </div>
+
+            <!-- ABOUT ME-->
+            <!-- Fold #2 -->
+            <div class="container-fluid">
+                <div class="row fold-two">
+                    <div class="row-xs-12 col-md-6">ABOUT ME</div>
+                        <p id="about-me">content here - because words are everything...and nothing. !?WAT?!</p>
+                    <div class="row-xs-12 col-md-6">Get in touch</div>
                 </div>
             </div>
 

@@ -5,15 +5,27 @@ nav {
     background-color: #162424;
     padding: 2rem;
     color: grey;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .fold-one {
     background-color: #B095BD;
-    padding: 5rem;
+    padding: 10rem 5rem 10rem 5rem;
     color: black;
     font-size: 3rem;
     border: 2px solid lightgrey;
+
+}
+
+.fold-two {
+    background-color: #5F9496;
+    padding: 10rem 5rem 10rem 5rem;
+    font-size: 3rem;
+
+}
+
+#about-me {
+    font-size: 2rem;
 }
 
 
