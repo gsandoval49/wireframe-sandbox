@@ -95,9 +95,10 @@
             <!-- Fold #2 -->
             <div class="container-fluid">
                 <div class="row fold-two">
-                    <div class="row-xs-12 col-md-6">ABOUT ME</div>
+                    <div class="row-xs-12 col-md-6">ABOUT ME
                         <p id="about-me">content here - because words are everything...and nothing. !?WAT?!</p>
-                    <div class="row-xs-12 col-md-6">Get in touch</div>
+                    </div>
+                    <div class="row-xs-12 col-md-6">Experience Bars</div>
                 </div>
             </div>
 
