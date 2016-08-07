@@ -37,7 +37,7 @@
         <header>
 
             <!-- NAV BAR GOES HERE -->
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12">
 
@@ -57,8 +57,8 @@
                             <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="about-me">About Me</a></li>
+                                    <li><a href="#">Button</a></li>
+                                    <li><a href="about-me">Button</a></li>
                                     <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Links<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
@@ -84,23 +84,43 @@
         <main>
             <!-- NAME & CONTACT ME -->
             <!-- Fold #1 in mobile -->
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row fold-one">
-                    <div class="row-xs-12 col-md-8">NAME & BRIEF DESCRIPTION</div>
-                    <div class="row-xs-12 col-md-4">Get in touch</div>
+                    <div class="row-xs-12 col-md-4">NAME & BRIEF DESCRIPTION</div>
+                    <div class="row-xs-12 col-md-8">Get in touch</div>
                 </div>
             </div>
 
             <!-- ABOUT ME-->
             <!-- Fold #2 -->
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row fold-two">
                     <div class="row-xs-12 col-md-6">ABOUT ME
-                        <p id="about-me">content here - because words are everything...and nothing. !?WAT?!</p>
+                        <p id="about-me">content here - because words are everything...and nothing. !?WAT?! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
                     </div>
-                    <div class="row-xs-12 col-md-6">Experience Bars</div>
+                    <div class="row-xs-12 col-md-6">Relevant Icons</div>
                 </div>
             </div>
+
+            <!-- EXPERIENCES -->
+            <!-- Fold #3 -->
+            <div class="container">
+                <div class="row fold-three">
+                    <div class="col-md-3 col-sm-4 col-xs-12">EXPERIENCES</div>
+                    <div class="col-md-9 col-sm-8 col-xs-12">Experience Content</div>
+                </div>
+            </div>
+
+            <!-- LATEST PROJECTS & CLIENTS -->
+            <!-- Fold #4 -->
+            <div class="container">
+                <div class="row fold-four">
+                    <div class="col-md-6 col-sm-6 col-xs-12">LATEST PROJECTS</div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">Clients</div>
+                </div>
+            </div>
+
+
 
         </main>
     </body>

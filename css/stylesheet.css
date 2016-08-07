@@ -19,19 +19,20 @@ nav {
 
 .col-md-8 {
     border: 2px solid black;
-    height: 20rem;
+    height: 50rem;
 }
 
 .col-md-4 {
     border: 2px solid black;
-    height: 20rem;
+    height: 50rem;
 }
 
 /* ABOUT ME & EXPERIENCE BARS*/
 .fold-two {
     background-color: #5F9496;
-    padding: 10rem 5rem 10rem 5rem;
+    padding: 1rem;
     font-size: 3rem;
+    border: 2px solid lightgrey;
 }
 
 #about-me {
@@ -40,8 +41,28 @@ nav {
 
 .col-md-6 {
     border: 2px solid black;
-    height: 20rem;
+    height: 50rem;
 }
+
+
+/* FOLD 3 */
+.fold-three {
+    background-color: lightblue;
+    padding: 1rem;
+    font-size: 3rem;
+    border: 2px solid lightgrey;
+}
+
+.col-md-3 {
+    border: 2px solid black;
+    height: 50rem;
+}
+
+.col-md-9 {
+    border: 2px solid black;
+    height: 50rem;
+}
+
 
 
 
