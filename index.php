@@ -87,7 +87,9 @@
             <div class="container">
                 <div class="row fold-one">
                     <div class="row-xs-12 col-md-4">NAME & BRIEF DESCRIPTION</div>
-                    <div class="row-xs-12 col-md-8">Get in touch</div>
+                    <div class="row-xs-12 col-md-8">Get in touch
+                        <p id="contact">Will have a button that shoots to forms or contact me link, in the center of the page</p>
+                    </div>
                 </div>
             </div>
 
@@ -96,9 +98,14 @@
             <div class="container">
                 <div class="row fold-two">
                     <div class="row-xs-12 col-md-6">ABOUT ME
-                        <p id="about-me">content here - because words are everything...and nothing. !?WAT?! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                        <p id="about-me">content here - because words are everything...and nothing. !?WAT?!</p>
                     </div>
-                    <div class="row-xs-12 col-md-6">Relevant Icons</div>
+                    <div class="row-xs-12 col-md-6">Relevant Icons
+                        <p class="bars">-------------</p>
+                        <p class="bars">-------------</p>
+                        <p class="bars">-------------</p>
+                        <p class="bars">-------------</p>
+                    </div>
                 </div>
             </div>
 
@@ -107,7 +114,9 @@
             <div class="container">
                 <div class="row fold-three">
                     <div class="col-md-3 col-sm-4 col-xs-12">EXPERIENCES</div>
-                    <div class="col-md-9 col-sm-8 col-xs-12">Experience Content</div>
+                    <div class="col-md-9 col-sm-8 col-xs-12">Experience Content
+                        <p id="resume">will display professional history</p>
+                    </div>
                 </div>
             </div>
 
@@ -115,8 +124,21 @@
             <!-- Fold #4 -->
             <div class="container">
                 <div class="row fold-four">
-                    <div class="col-md-6 col-sm-6 col-xs-12">LATEST PROJECTS</div>
-                    <div class="col-md-6 col-sm-6 col-xs-12">Clients</div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">LATEST PROJECTS
+                        <p id="projects">will house latest projects and pro bono projects</p>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">Clients
+                        <p id="clients">will house future clients that I've worked with. This will most likely won't be here until later</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GET IN TOUCH AND FORM-->
+            <!-- Fold #5 -->
+            <div class="container">
+                <div class="row fold-five">
+                    <div class="col-md-6 col-sm-6 col-xs-12">FORM FOR CONTACT</div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">Get in touch</div>
                 </div>
             </div>
 

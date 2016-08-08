@@ -8,7 +8,9 @@ nav {
     font-size: 2rem;
 }
 
-/* NAME & CONTACT ME */
+
+
+/* FOLD #1 NAME & GET IN TOUCH */
 .fold-one {
     background-color: #B095BD;
     padding: 1rem;
@@ -27,7 +29,14 @@ nav {
     height: 50rem;
 }
 
-/* ABOUT ME & EXPERIENCE BARS*/
+/* font size for p tag in get in touch section */
+#contact {
+    font-size: 2rem;
+}
+
+
+
+/* FOLD #2 ABOUT ME & EXPERIENCE BARS*/
 .fold-two {
     background-color: #5F9496;
     padding: 1rem;
@@ -44,8 +53,13 @@ nav {
     height: 50rem;
 }
 
+.bars {
+    text-align: center;
+}
 
-/* FOLD 3 */
+
+
+/* FOLD 3 EXPERIENCES */
 .fold-three {
     background-color: lightblue;
     padding: 1rem;
@@ -61,6 +75,45 @@ nav {
 .col-md-9 {
     border: 2px solid black;
     height: 50rem;
+}
+
+/* font size for p tag in resume section */
+#resume {
+    font-size: 2rem;
+}
+
+
+
+/* FOLD 4 LATEST PROJECTS & CLIENTS*/
+.fold-four {
+    background-color: grey;
+    padding: 1rem;
+    font-size: 3rem;
+    border: 2px solid lightgrey;
+}
+
+.col-md-6 {
+    border: 2px solid black;
+}
+
+/* font size for p tag in latest projects */
+#projects {
+    font-size: 2rem;
+}
+
+/* font size for p tag in clients section */
+#clients {
+    font-size: 2rem;
+}
+
+
+
+/* FOLD 5 CONTACT FORM & GET IN TOUCH */
+.fold-five {
+    background-color: lightsteelblue;
+    padding: 1rem;
+    font-size: 3rem;
+    border: 2px solid lightgrey;
 }
 
 
